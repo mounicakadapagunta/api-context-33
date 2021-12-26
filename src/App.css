@@ -1,0 +1,139 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  font-weight:800;
+  font-size:1.2rem;
+}
+
+/* Search Field */
+.searchfield
+{
+  border-radius:4px;
+  width:19rem;
+  background-Color:rgb(63, 60, 60);
+  color:white;
+  margin-Left:1.5rem;
+  margin-Top:0.2rem;
+  padding-left:1rem;
+}
+
+/* Badges */
+.badge
+{
+  margin-left:40rem;
+  
+}
+#notification
+{
+  margin:0 1.5rem ;
+  cursor: pointer;
+}
+#mail
+{
+  cursor: pointer;
+}
+
+ /* User Profile pic */
+.userpic,.adminpic
+{
+  height:3rem;
+  width: 3rem;
+  overflow: hidden;
+  border-radius: 4px;  
+}
+
+/* Admin Profile pic */
+.adminpic
+{
+  margin-top:0.40rem;
+  margin-left:0rem;
+  cursor: pointer;
+}
+
+/* Admin heading */
+.admin
+{
+  margin-left:1rem;
+  margin-top:1rem;
+  font-family: 'Poppins' sans-serif;
+  font-weight:500;
+}
+
+/* /* User heading  */
+.users-heading
+{
+  width:50rem;
+  display: flex;
+  margin-bottom: -2.65rem;
+  gap:2rem;
+  align-items: baseline;
+  margin-left:18rem;
+  font-size: 1.5rem;
+}
+
+
+/* Current Users */
+.current-users
+{
+  font-size:1rem;
+  font-weight:600;
+  text-align: right;
+  margin-left:35rem;
+  margin-top:1rem;
+}
+
+/* Navbutton */
+.navbutton
+{
+  margin: auto;
+}
+
+/* Table */
+#table
+{
+  margin:3rem auto;
+  width:50rem;  
+}
+
+/* Add user Page */
+.Adduserlist
+{
+  margin:5rem 20rem;
+  
+}
+/* Add text field */
+.Addtextfield
+{
+  width:40rem;
+}
+
+/* Update text field */
+.Updatetextfield
+{
+  width:27rem;
+  margin:0.5rem !important;
+}
+
+/* Float Icon */
+#floaticon
+{
+  left:70rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer Section */
+.footer
+{
+  text-Align:center;
+  padding:10px;
+  color:white;
+  margin-Top:28rem;
+  height:8rem;
+}
+.footercontent
+{
+  margin-top: 2rem;
+  font-Size:1rem;
+  font-Weight:100
+}
+
+
